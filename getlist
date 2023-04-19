@@ -1,0 +1,22 @@
+[
+  {
+    "catID": 1,
+    "name": "Mùa Xuân",
+    "image": "muaxuan.png"
+  },
+  {
+    "catID": 2,
+    "name": "Mùa Hạ",
+    "image": "muaha.png"
+  },
+  {
+    "catID": 3,
+    "name": "Mùa Thu",
+    "image": "muathu.png"
+  },
+  {
+    "catID": 2,
+    "name": "Mùa Đông",
+    "image": "muadong.png"
+  }
+]
